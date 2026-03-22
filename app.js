@@ -22,6 +22,6 @@ if (form) {
   form.addEventListener('submit', e => {
     e.preventDefault();
     form.reset();
-    alert('已收到信息，24 小时内会与您联系。');
+    alert('已收到信息，感谢您的反馈！。');
   });
 }
